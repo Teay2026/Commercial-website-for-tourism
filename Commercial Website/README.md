@@ -4,12 +4,27 @@
 
 This website was created by Tahiri El Youness and Hadj-Hamdri Mohammed Amine during their 3rd year at CPE Lyon engineering school.
 
+## Website Overview
+![Home Page](https://github.com/Teay2026/Commercial-website-for-tourism/blob/main/Commercial%20Website/README_PHOTOS/acceuil.png)
+*Home Page: Showcase various destinations through photos.*
+
+![Espace Client Page](phttps://github.com/Teay2026/Commercial-website-for-tourism/blob/main/Commercial%20Website/README_PHOTOS/espaceclient.png)
+*Espace Client Page: Displaying the reservation and client-specific information.*
+
+![Filtered Page](https://github.com/Teay2026/Commercial-website-for-tourism/blob/main/Commercial%20Website/README_PHOTOS/filter.png)
+*Filtered Page: User-friendly filters offering different trips.*
+
+![Destinations Map](https://github.com/Teay2026/Commercial-website-for-tourism/blob/main/Commercial%20Website/README_PHOTOS/map.png)
+*Destinations Map: Visual representation of travel destinations.*
+
+
 ## Project Specifications:
 
-### 1. Minimum Required Pages:
+### 1. Pages:
    - Main page showcasing various destinations through photos.
    - Reservation page.
    - Recap page.
+   - Destionations map
    - About & Contact page.
 
 ### 2. Navigation Flow:
@@ -54,18 +69,4 @@ This website was created by Tahiri El Youness and Hadj-Hamdri Mohammed Amine dur
    - Site includes a shopping cart for managing customer orders.
    - Users can modify their cart, e.g., remove a trip.
 
-### 11. Responsiveness:
-   - While not mandatory, attention will be given to accessibility standards.
 
-### 12. Design Freedom:
-   - Design elements are open-ended, allowing for creativity.
-   - Attention to code quality and clarity is prioritized over visual aesthetics.
-
-## Development Guidelines:
-
-- Create a "Destination" class with properties and methods for representing different destinations.
-- Use a JavaScript array of "Destination" objects to dynamically fill HTML files.
-- Implement a mechanism to obtain the selected trip from the homepage to the reservation page using URL parameters.
-- Dynamically update the reservation form using the "onchange" event.
-- Create a new page with an SVG world map highlighting countries corresponding to the offered destinations during mouse hover.
-- Incorporate multimedia elements, such as YouTube videos, to present destinations.
