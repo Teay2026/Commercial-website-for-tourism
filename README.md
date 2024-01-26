@@ -2,7 +2,34 @@
 
 # Travel Agency Website Project
 
-This website was created by Tahiri El Youness and Hadj-Hamdri Mohammed Amine during their 3rd year at CPE Lyon engineering school.
+**Description:**
+
+Welcome to the Travel Agency Website Project, a collaborative effort by Tahiri El Youness and Hadj-Hamdri Mohammed Amine, crafted during our 3rd year at CPE Lyon engineering school. This web project aims to provide users with a seamless and visually appealing platform to explore and plan their travel adventures.
+
+**Key Features:**
+
+- **Destination Exploration:** Discover a wide array of travel destinations with detailed information, captivating images, and insightful descriptions to help users choose their dream vacation spot.
+
+- **Customized Itineraries:** Plan your trip effortlessly with the website's interactive itinerary planning feature. Tailor your journey based on preferences, budget, and travel duration.
+
+
+- **Booking Integration:** Seamlessly book flights, accommodations, and activities directly through the website, offering users a convenient one-stop-shop for all their travel needs.
+
+
+**Technology Stack:**
+
+The Travel Agency Website is developed using modern web technologies, incorporating HTML, CSS, and JavaScript to create an engaging and dynamic user interface. Backend functionality is powered by robust server-side technologies, providing secure and efficient data handling.
+
+**Explore, Plan, and Embark on Your Journey:**
+
+Whether you're a seasoned traveler or planning your first adventure, the Travel Agency Website Project is designed to simplify the travel planning process. Explore destinations, create personalized itineraries, and make your travel dreams a reality.
+
+**Contributions:**
+
+Feel free to provide feedback or contribute to the improvement of this project. Your input is valuable in enhancing the overall user experience for fellow travelers.
+
+Enjoy exploring the world with the Travel Agency Website!
+
 
 ## Website Overview
 
