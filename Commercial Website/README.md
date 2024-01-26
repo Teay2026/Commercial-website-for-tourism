@@ -5,18 +5,22 @@
 This website was created by Tahiri El Youness and Hadj-Hamdri Mohammed Amine during their 3rd year at CPE Lyon engineering school.
 
 ## Website Overview
+
+### Home Page
 ![Home Page](https://github.com/Teay2026/Commercial-website-for-tourism/blob/main/Commercial%20Website/README_PHOTOS/acceuil.png)
-*Home Page: Showcase various destinations through photos.*
+*Showcase various destinations through photos.*
 
-![Espace Client Page](phttps://github.com/Teay2026/Commercial-website-for-tourism/blob/main/Commercial%20Website/README_PHOTOS/espaceclient.png)
-*Espace Client Page: Displaying the reservation and client-specific information.*
+### Espace Client Page
+![Espace Client Page](https://github.com/Teay2026/Commercial-website-for-tourism/blob/main/Commercial%20Website/README_PHOTOS/espaceclient.png)
+*Displaying the reservation and client-specific information.*
 
+### Filtered Page
 ![Filtered Page](https://github.com/Teay2026/Commercial-website-for-tourism/blob/main/Commercial%20Website/README_PHOTOS/filter.png)
-*Filtered Page: User-friendly filters offering different trips.*
+*User-friendly filters offering different trips.*
 
+### Destinations Map
 ![Destinations Map](https://github.com/Teay2026/Commercial-website-for-tourism/blob/main/Commercial%20Website/README_PHOTOS/map.png)
-*Destinations Map: Visual representation of travel destinations.*
-
+*Visual representation of travel destinations.*
 
 ## Project Specifications:
 
@@ -68,5 +72,3 @@ This website was created by Tahiri El Youness and Hadj-Hamdri Mohammed Amine dur
 ### 10. Shopping Cart:
    - Site includes a shopping cart for managing customer orders.
    - Users can modify their cart, e.g., remove a trip.
-
-
